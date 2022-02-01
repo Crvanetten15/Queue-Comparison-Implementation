@@ -1,4 +1,4 @@
-# CIS-265-Queue-Comparison
+#Queue-Comparison
 READ ME
 Connor Van Etten - 2802937
 
